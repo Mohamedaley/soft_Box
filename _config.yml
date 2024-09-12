@@ -2,7 +2,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 title: SoftBox - Lightweight Containerization
 description: Open-source containerization tool for Linux
 baseurl: "/SoftBox"
-url: "https://yourusername.github.io"
+url: "https://Mohamedaley.github.io"
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
@@ -15,7 +15,7 @@ header_pages:
 
 # Social media links
 social_links:
-  github: "https://github.com/yourusername"
+  github: "https://github.com/Mohamedaley"
   linkedin: "https://www.linkedin.com/in/mohamed-ali-199780313/"
   email: "mailto:mohamed.aboali1332532@gmail.com"
 
