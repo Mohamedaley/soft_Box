@@ -1,3 +1,29 @@
-theme: minima
-title: SoftBox
-description: Lightweight containerization for Linux
+remote_theme: pages-themes/cayman@v0.2.0
+title: SoftBox - Lightweight Containerization
+description: Open-source containerization tool for Linux
+baseurl: "/SoftBox"
+url: "https://yourusername.github.io"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Navigation bar links
+header_pages:
+  - index.md
+  - about.md
+  - docs/installation.md
+
+# Social media links
+social_links:
+  github: "https://github.com/yourusername"
+  linkedin: "https://www.linkedin.com/in/mohamed-ali-199780313/"
+  email: "mailto:mohamed.aboali1332532@gmail.com"
+
+# Footer links (if theme supports it)
+footer_links:
+  - title: GitHub
+    url: "https://github.com/yourusername"
+  - title: LinkedIn
+    url: "https://www.linkedin.com/in/mohamed-ali-199780313/"
+  - title: Email
+    url: "mailto:mohamed.aboali1332532@gmail.com"
