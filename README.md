@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SoftBox
+title: softBox
 ---
 # softBox project is the foundation graduation project from alx software engineering foundations
 
